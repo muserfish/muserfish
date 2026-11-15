@@ -1,4 +1,4 @@
-# Christian Abela
+# Chris Abela
 **Trading Leadership | Quantitative Research | Automation**
 
 ## About Me
