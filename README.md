@@ -1,38 +1,21 @@
 # Chris Abela
-**Trading Leadership | Quantitative Research | Automation**
 
-## About Me
+**Head of Trading | Quantitative Research | Automation**
 
-Senior trading professional with over 18 years of experience across sportsbook trading, pricing, risk management and trading operations.
+Senior trading professional with 18+ years of experience in sportsbook pricing, risk management and trading operations.
 
-My professional background combines leadership of trading teams and commercial sportsbook operations with an increasing focus on quantitative research, algorithmic trading, automation and AI-driven systems.
+Alongside leading trading teams, I explore algorithmic trading, quantitative research and automation, with a focus on practical applications in trading and risk management.
 
-I have worked across established international sportsbook operators and technology providers, with experience spanning pre-match and in-play trading, trading strategy, exposure management, supplier integrations and operational transformation.
+## Areas of Focus
 
-## Areas of Expertise
+`Sportsbook Trading` · `Quantitative Research` · `Algorithmic Trading` · `Risk Management` · `AI & Automation`
 
-### Trading & Risk
-Sportsbook pricing, risk management, trading operations and market-making research.
-
-### Quantitative Research
-Options strategies, backtesting, probability modelling and execution analysis.
-
-### Automation & AI
-Automated monitoring, data collection, analytical workflows and AI-assisted development.
-
-### Leadership
-Trading team management, supplier evaluation, operational improvement and technology strategy.
-
-## Selected Technical Project
+## Featured Project
 
 ### [GoliathMM — Market Making Algorithm](https://github.com/muserfish/GoliathMM)
 
-A C# market-making strategy for Quantower exploring inventory-aware quoting, order-book imbalance, automated order management and configurable hedging.
+C# market-making strategy for Quantower featuring inventory-aware quoting, order-book imbalance analysis and configurable hedging.
 
-## Technical Interests
+## Technologies
 
-`Python` · `C#` · `Quantitative Finance` · `Algorithmic Trading` · `Sportsbook Technology` · `AI & Automation` · `Data Analysis`
-
-## Professional Focus
-
-Building and evaluating trading systems that combine sound risk management, quantitative analysis and practical operational execution.
+`Python` · `C#` · `Trading Systems` · `Data Analysis`
