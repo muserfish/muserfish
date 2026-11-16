@@ -10,11 +10,15 @@ Alongside leading trading teams, I explore algorithmic trading, quantitative res
 
 `Sportsbook Trading` · `Quantitative Research` · `Algorithmic Trading` · `Risk Management` · `AI & Automation`
 
-## Featured Project
+## Featured Projects
 
 ### [GoliathMM — Market Making Algorithm](https://github.com/muserfish/GoliathMM)
 
 C# market-making strategy for Quantower featuring inventory-aware quoting, order-book imbalance analysis and configurable hedging.
+
+### [CampaignDesk — IBKR Options Campaign Accounting](https://github.com/muserfish/CampaignDesk)
+
+Local-first .NET and React application for tracking IBKR options campaigns, including rolls, premium, stock cashflows, commissions, campaign P/L and reconciliation. Includes a read-only TWS bridge and illustrative demo screenshots.
 
 ## Technologies
 
